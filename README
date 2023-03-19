@@ -11,6 +11,9 @@ The following patches have been applied:
 
 - border
 - center
+- alpha
+- fuzzymatch
+- fuzzyhighlight
 
 
 Requirements
