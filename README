@@ -4,6 +4,14 @@ My build of dmenu, an efficient dynamic menu for X.
 
 Forked from git.suckless.org.
 
+
+Patches
+-------
+The following patches have been applied:
+
+- border
+
+
 Requirements
 ------------
 In order to build dmenu you need the Xlib header files.
