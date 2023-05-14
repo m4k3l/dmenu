@@ -7,11 +7,11 @@ Forked from [suckless](git.suckless.org)
 ## Patches
 The following patches have been applied:
 
-* border
-* center
-* alpha
-* fuzzymatch
-* fuzzyhighlight
+* [border](https://tools.suckless.org/dmenu/patches/border)
+* [center](https://tools.suckless.org/dmenu/patches/center)
+* [alpha](https://tools.suckless.org/dmenu/patches/alpha)
+* [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch)
+* [fuzzyhighlight](https://tools.suckless.org/dmenu/patches/fuzzyhighlight)
 
 
 ## Requirements
