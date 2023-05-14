@@ -1,37 +1,33 @@
-dmenu - dynamic menu
-====================
+# dmenu - dynamic menu
 My build of dmenu, an efficient dynamic menu for X.
 
-Forked from git.suckless.org.
+Forked from [suckless](git.suckless.org)
 
 
-Patches
--------
+## Patches
 The following patches have been applied:
 
-- border
-- center
-- alpha
-- fuzzymatch
-- fuzzyhighlight
+* border
+* center
+* alpha
+* fuzzymatch
+* fuzzyhighlight
 
 
-Requirements
-------------
+## Requirements
 In order to build dmenu you need the Xlib header files.
 
 
-Installation
-------------
+## Installation
 Edit config.mk to match your local setup (dmenu is installed into
 the /usr/local namespace by default).
 
 Afterwards enter the following command to build and install dmenu
 (if necessary as root):
 
-    make clean install
+```
+make clean install
+```
 
-
-Running dmenu
--------------
+## Running dmenu
 See the man page for details.
