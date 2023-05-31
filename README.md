@@ -1,7 +1,7 @@
 # dmenu - dynamic menu
 My build of dmenu, an efficient dynamic menu for X.
 
-Forked from [suckless](git.suckless.org)
+Forked from [suckless](https://git.suckless.org)
 
 
 ## Patches
